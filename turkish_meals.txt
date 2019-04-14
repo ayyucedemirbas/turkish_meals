@@ -1,0 +1,5 @@
+0  kebab
+1  manti
+2  lahmacun
+3  icliKofte
+4  doner
